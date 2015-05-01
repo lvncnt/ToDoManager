@@ -10,16 +10,15 @@ Course project for [Programming Mobile Applications for Android Handheld Systems
 
 ## Demo
 
-[![MetroFramework](https://docs.google.com/file/d/0B8nQrefoHMpqUG5JOE0xVTREX3M/edit?pli=1)](https://docs.google.com/file/d/0B8nQrefoHMpqUG5JOE0xVTREX3M/edit?pli=1)
-
-
+[![MetroFramework](https://raw.githubusercontent.com/lvncnt/ToDoManager/master/demoplay-demo.jpeg)](https://docs.google.com/file/d/0B8nQrefoHMpqUG5JOE0xVTREX3M/edit?pli=1)
+ 
 ## Screenshots
 
 *Main*
 
-![alt tag](https://drive.google.com/open?id=0B8nQrefoHMpqOTB5X2t3ajBaaFk&authuser=0)
+![alt tag](https://raw.githubusercontent.com/lvncnt/ToDoManager/master/demo/main-demo.jpg)
 
 *Add item*
 
-![alt tag](https://drive.google.com/open?id=0B8nQrefoHMpqNFJmUEt0Z0w5alE&authuser=0)
+![alt tag](https://raw.githubusercontent.com/lvncnt/ToDoManager/master/demo/add-item-demo.jpg)
   
